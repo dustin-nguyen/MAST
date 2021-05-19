@@ -1,0 +1,3 @@
+#JSGF V1.0;
+grammar forcing;
+public <yesterday> = sil y eh s t er d ey [ sil ];

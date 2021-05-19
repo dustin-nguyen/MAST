@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">700543593187-o7r3gi87j87nv79mo6neaoheqgvc70e0.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">700543593187</string>
+    <string name="google_api_key" translatable="false">AIzaSyAuxVFQSWS-0jM1GzzPeqgPnoX358AqqjE</string>
+    <string name="google_app_id" translatable="false">1:700543593187:android:be16d59d47dae2dc8c33d6</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAuxVFQSWS-0jM1GzzPeqgPnoX358AqqjE</string>
+    <string name="google_storage_bucket" translatable="false">mast-fb.appspot.com</string>
+    <string name="project_id" translatable="false">mast-fb</string>
+</resources>

@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "700543593187",
+    "project_id": "mast-fb",
+    "storage_bucket": "mast-fb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700543593187:android:be16d59d47dae2dc8c33d6",
+        "android_client_info": {
+          "package_name": "com.example.MAST_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700543593187-o7r3gi87j87nv79mo6neaoheqgvc70e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuxVFQSWS-0jM1GzzPeqgPnoX358AqqjE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700543593187-o7r3gi87j87nv79mo6neaoheqgvc70e0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "700543593187-2v8s3svhnp9fsa4lt1nd254hl1ef4km0.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.MASTApp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
